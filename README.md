@@ -3,7 +3,11 @@
 ## 详细功能介绍
 
 Google GitHub Hacking 工具是一款专为安全研究人员、渗透测试工程师和网络安全分析师设计的 Chrome 扩展程序。该工具通过自动化的检测机制，帮助用户快速发现目标域名的安全风险和信息泄露。
+
 作者： 秦思扬 pip_install_qsy
+
+适配FireFox(火狐)版本,作者:Pings
+
 ![3](https://github.com/user-attachments/assets/fac86c2e-fe83-4d41-bc8d-fc6e10b024e7)
 ![5](https://github.com/user-attachments/assets/e3dbae5f-a736-42c5-96db-e4959696ac29)
 ![2](https://github.com/user-attachments/assets/1bd90016-a072-4902-b2a3-47cd001e66bb)
